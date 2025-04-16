@@ -3,10 +3,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain
 ===============================================================================================================================
 
-Data Analyst
+An aspiring Data Analyst
 ------------
 
-With a Bachelors degree in Computer science, I bring extensive coding expertise, particularly in Python and SQL. My proficiency is bolstered by strong soft skills in time management, critical thinking, and problem-solving, developed overtime through the completion of numerous projects under stringent deadlines. I have a broad technical background and, I am well-prepared to excel in roles pertinent to proficient Data Analysis. Additionally, I am highly adaptable and thrive in dynamic environments. I have experience working as a Trainee Data Analyst, and this experience has equipped me with the technical skills and soft skills, crucial to excel in a data driven role. My goal is to use my technical skills and passion for data to become a proficient data analyst. I am particularly interested in exploring roles where I can contribute to data-driven decision-making, whether it's in a tech company or a healthcare organization, I am eager to continue learning, staying updated with the latest advancements in data analytics and applying my skills to solve real-world problems.
+
+### About Me
+
+With a Bachelors degree in Computer science, I bring extensive coding expertise, particularly in Python and SQL. My proficiency is bolstered by strong soft skills in time management, critical thinking, and problem-solving, developed overtime through the completion of numerous projects under stringent deadlines. I have a broad technical background and, I am well-prepared to excel in roles pertinent to proficient Data Analysis. 
+
+Additionally, I am highly adaptable and thrive in dynamic environments. I have experience working as a Trainee Data Analyst, and this experience has equipped me with the technical skills and soft skills, crucial to excel in a data driven role. My goal is to use my technical skills and passion for data to become a proficient data analyst. I am particularly interested in exploring roles where I can contribute to data-driven decision-making, whether it's in a tech company or a healthcare organization, I am eager to continue learning, staying updated with the latest advancements in data analytics and applying my skills to solve real-world problems.
 
 * 🌍  I'm based in London, England
 * ✉️  You can contact me at [hussainsalim1@hotmail.com](mailto:hussainsalim1@hotmail.com)
@@ -15,6 +20,7 @@ With a Bachelors degree in Computer science, I bring extensive coding expertise,
 
 <a href="https://www.github.com/hussains1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hussains1?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+
 
 
 ### Skills
@@ -37,16 +43,27 @@ src="https://img.shields.io/github/followers/hussains1?logo=github&style=for-the
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- My GitHub Stats and Skills Section -->
 
-<a href="http://www.github.com/hussains1"><img src="https://github-readme-stats.vercel.app/api?username=hussains1&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="hussains1's GitHub stats" /></a>
+<h2 style="color: #ffffff; background-color: #0f172a; padding: 10px; border-radius: 8px; margin-top: 30px;">💻 My GitHub Stats</h2>
 
-<a href="http://www.github.com/hussains1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussains1&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- GitHub Stats Cards -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=3382ed&amp;bg_color=0f172a&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages">
+<a href="http://www.github.com/hussains1">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussains1&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" alt="hussains1's GitHub stats" />
+</a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<!-- Skills Section -->
+<h2 style="color: #ffffff; background-color: #0f172a; padding: 10px; border-radius: 8px; margin-top: 30px;">🧠 Skills & Proficiency</h2>
+<ul style="color: #ffffff; background-color: #0f172a; padding: 20px; border-radius: 8px; list-style-type: none; line-height: 1.8;">
+  <li><strong>Python</strong>: 🟡 Intermediate</li>
+  <li><strong>SQL</strong>: 🟢 Advanced</li>
+  <li><strong>Excel</strong>: 🟢 Advanced</li>
+  <li><strong>Tableau</strong>: 🟡 Intermediate</li>
+  <li><strong>Power BI</strong>: 🟡 Intermediate</li>
+</ul>
+
 
 
